@@ -10,7 +10,7 @@
 
 המשחק מיועד למחשב רגיל (PC) עם פקדי עכבר, ואפשר להרחיב למכשירים ניידים בעתיד.
 
-![EcoLink Concept](https://placeholder-for-screenshot.com/ecolink-concept.png)
+![EcoLink Concept](EchoLink-System.png)
 *תמונה: עולם צבעוני עם דשא, ארנבות, זאבים ונהר זורם*
 
 ---
