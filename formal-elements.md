@@ -186,7 +186,7 @@ Tutorial מסביר כל מכניקה לראשונה. Tooltips אינטראקט�
 
 ### משחק דומה 1: SimLife
 
-![SimLife Screenshot](https://placeholder-for-screenshot.com/simlife.png)
+![SimLife Screenshot](SimLife.JPG)
 
 **קישור**: https://en.wikipedia.org/wiki/SimLife
 
@@ -204,7 +204,7 @@ SimLife (משנות ה-90) היה משחק סימולציה אקולוגי שב�
 
 ### משחק דומה 2: Eco
 
-![Eco Screenshot](https://placeholder-for-screenshot.com/eco-game.png)
+![Eco Screenshot](Eco.JPG)
 
 **קישור**: https://store.steampowered.com/app/382310/Eco/
 
@@ -222,7 +222,7 @@ Eco הוא משחק סימולציה אקולוגית מרובה משתתפים 
 
 ### משחק דומה 3: Equilinox
 
-![Equilinox Screenshot](https://placeholder-for-screenshot.com/equilinox.png)
+![Equilinox Screenshot](Equilinox.JPG)
 
 **קישור**: https://store.steampowered.com/app/853550/Equilinox/
 
