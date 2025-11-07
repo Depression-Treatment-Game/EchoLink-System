@@ -99,8 +99,7 @@ EcoLink עונה על צרכים אלו:
 משחקים דומים נוספים וניתוח ושוני שלהם ניתן לראות בקובץ [רכיבים רשמיים](../Formal_Elements/formal-elements.md) 
 
 משחקים דומים נוספים וניתוח טבלאי שלה (מאיסוף ע"י Gemini):
-![Gemini game compare](gemini-game-compare.JPG)
-
+<img src="gemini-game-compare.JPG" alt="Gemini game compare" width="300">
 
 ---
 
