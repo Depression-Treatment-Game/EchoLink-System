@@ -63,16 +63,16 @@ EcoLink עונה על צרכים אלו:
   
 נביא כאן שתי תמונות מתוך כניסה פשוטה ל Google play שמראות מה המשחקים המובילים הן בצד הכללי והן תחת הקטגוריה של סימולציה והדמיה
 
-<div style="text-align: center;"> <div style="display: inline-block; width: 35%; margin-right: 5%;">
-        <img src="free-popular.jpg" alt="פופולריים ביותר בחינם" style="width: 100%; height: auto; display: block;">
-    </div>
-
-    <div style="display: inline-block; width: 35%; margin-left: 5%;">
-        <img src="simulation.jpg" alt="סימולציה" style="width: 100%; height: auto; display: block;">
-    </div>
-
-</div>
-<div style="clear: both;"></div>
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="free-popular.jpg" alt="פופולריים ביותר בחינם" width="300">
+    </td>
+    <td style="padding: 10px;">
+      <img src="simulation.jpg" alt="סימולציה" width="300">
+    </td>
+  </tr>
+</table>
 
 **App Store (iOS)**
 - **גיוון רב יותר:** משחקים מעוצבים ומורכבים יותר
@@ -82,17 +82,16 @@ EcoLink עונה על צרכים אלו:
 נביא כאן שתי תמונות מתוך כניסה פשוטה ל AppStore שמראות מה המשחקים המובילים הן בצד הכללי והן תחת הקטגוריה של סימולציה והדמיה
 
 
-<div style="text-align: center;"> <div style="display: inline-block; width: 35%; margin-right: 5%;">
-        <img src="General-games-appstore.jpg" alt="משחקים כללים" style="width: 100%; height: auto; display: block;">
-    </div>
-
-    <div style="display: inline-block; width: 35%; margin-left: 5%;">
-        <img src="simulation-appstore.jpg" alt="סימולציה appstore" style="width: 100%; height: auto; display: block;">
-    </div>
-
-</div>
-<div style="clear: both;"></div>
-
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="General-games-appstore.jpg" alt="משחקים כללים" width="300">
+    </td>
+    <td style="padding: 10px;">
+      <img src="simulation-appstore.jpg" alt="סימולציה appstore" width="300">
+    </td>
+  </tr>
+</table>
 #### פער בשוק
 רוב המשחקים בסגנון מתמקדים בבנייה או פיתוח פשוט, **ללא אתגר מובנה** (כגון זמן, משאבים שנהרסים, אירועי אבע). EcoLink ממלא פער זה.
 
