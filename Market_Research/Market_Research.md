@@ -62,11 +62,15 @@ EcoLink עונה על צרכים אלו:
 - **מאפיין:** משחקי סימולציה נוטים להיות ארוכי טווח, מתמקדים בבניה ללא אתגר מובנה
   
 נביא כאן שתי תמונות מתוך כניסה פשוטה ל Google play שמראות מה המשחקים המובילים הן בצד הכללי והן תחת הקטגוריה של סימולציה והדמיה
-<img src="free-popular.jpg" alt="פופולריים ביותר בחינם" width="400">
 
+<div style="display: inline-block; margin: 10px;">
+    <img src="free-popular.jpg" alt="פופולריים ביותר בחינם" width="300">
+</div>
+<div style="display: inline-block; margin: 10px;">
+    <img src="simulation.jpg" alt="סימולציה" width="300">
+</div>
 
-<img src="simulation.jpg" alt="סימולציה" width="400">
-
+<div style="clear: both;"></div>
 
 **App Store (iOS)**
 - **גיוון רב יותר:** משחקים מעוצבים ומורכבים יותר
