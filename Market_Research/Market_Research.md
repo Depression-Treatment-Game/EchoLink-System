@@ -63,13 +63,15 @@ EcoLink עונה על צרכים אלו:
   
 נביא כאן שתי תמונות מתוך כניסה פשוטה ל Google play שמראות מה המשחקים המובילים הן בצד הכללי והן תחת הקטגוריה של סימולציה והדמיה
 
-<div style="display: inline-block; margin: 10px;">
-    <img src="free-popular.jpg" alt="פופולריים ביותר בחינם" width="300">
-</div>
-<div style="display: inline-block; margin: 10px;">
-    <img src="simulation.jpg" alt="סימולציה" width="300">
-</div>
+<div style="text-align: center;"> <div style="display: inline-block; width: 35%; margin-right: 5%;">
+        <img src="free-popular.jpg" alt="פופולריים ביותר בחינם" style="width: 100%; height: auto; display: block;">
+    </div>
 
+    <div style="display: inline-block; width: 35%; margin-left: 5%;">
+        <img src="simulation.jpg" alt="סימולציה" style="width: 100%; height: auto; display: block;">
+    </div>
+
+</div>
 <div style="clear: both;"></div>
 
 **App Store (iOS)**
@@ -79,10 +81,17 @@ EcoLink עונה על צרכים אלו:
 
 נביא כאן שתי תמונות מתוך כניסה פשוטה ל AppStore שמראות מה המשחקים המובילים הן בצד הכללי והן תחת הקטגוריה של סימולציה והדמיה
 
-![משחקים כללים](General-games-appstore.jpg)
 
-![סימולציה appstore](simulation-appstore.jpg)
+<div style="text-align: center;"> <div style="display: inline-block; width: 35%; margin-right: 5%;">
+        <img src="General-games-appstore.jpg" alt="משחקים כללים" style="width: 100%; height: auto; display: block;">
+    </div>
 
+    <div style="display: inline-block; width: 35%; margin-left: 5%;">
+        <img src="simulation-appstore.jpg" alt="סימולציה appstore" style="width: 100%; height: auto; display: block;">
+    </div>
+
+</div>
+<div style="clear: both;"></div>
 
 #### פער בשוק
 רוב המשחקים בסגנון מתמקדים בבנייה או פיתוח פשוט, **ללא אתגר מובנה** (כגון זמן, משאבים שנהרסים, אירועי אבע). EcoLink ממלא פער זה.
