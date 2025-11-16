@@ -128,5 +128,6 @@
 
 
 תמונה להמחשה:
+
 <img src="level-3.png" width="300">
 
